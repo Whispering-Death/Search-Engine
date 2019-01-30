@@ -6,7 +6,7 @@ Search Engine using Solr
 3. Indexed pages with Solr. <br/>
 4. A simple web page to display news results. <br/>
 5. Generate news snippets. <br/>
-6. AutoComplete feature for search queries. <br/>
+6. AutoComplete and Spell Correction for search queries. <br/>
 
 ## Screenshot
 The image displays the results from Solr. The description (news snippet) is generated using location based matching. <br/>
